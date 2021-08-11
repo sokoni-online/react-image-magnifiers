@@ -2,8 +2,6 @@
 
 A collection of responsive, image magnifying React components for mouse and touch. Useful for product images in ecommerce sites, image galleries, stock photos, etc.
 
-[![npm version](https://img.shields.io/npm/v/react-image-magnifiers.svg?style=flat)](https://npmjs.org/package/react-image-magnifiers "View this project on npm")
-[![npm downloads](https://img.shields.io/npm/dm/react-image-magnifiers.svg?style=flat-square)](https://www.npmjs.com/package/react-image-magnifiers)
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 ## Magnifier components:
@@ -34,12 +32,12 @@ _Note: The MagnifierZoom component will initially have zero height. Its only con
 
 ## Demo
 
-Visit the [react-image-magnifiers demo site](https://adamrisberg.github.io/react-image-magnifiers).
+Visit the [react-image-magnifiers demo site](https://sokoni-online.github.io/react-image-magnifiers).
 
 ## Installation
 
 ```sh
-npm install --save react-image-magnifiers
+npm install --save @africasokoni/react-image-magnifiers
 ```
 
 ## Basic Usage
@@ -273,7 +271,7 @@ _Note: onZoomStart and onZoomEnd behaves differently with PictureInPictureMagnif
 ## Example Project
 
 ```sh
-git clone https://github.com/adamrisberg/react-image-magnifiers.git
+git clone https://github.com/sokoni-online/react-image-magnifiers.git
 cd react-image-magnifiers
 npm install
 npm start
